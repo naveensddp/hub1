@@ -1,0 +1,60 @@
+ceLTTqfj2NU
+agverdict\naveenn
+naveenn
+
+
+nagios ip - 172.18.2.105
+
+Alert Logic Credentails:
+cloudops@symphonyteleca.com
+kES754D8S
+https://console.clouddefender.alertlogic.com/lm/collection/https://console.clouddefender.alertlogic.com/lm/collection/
+
+
+
+citysprint password - n@veensddp44T
+9611212436 - trilok
+cab ordinator- 9900027741
+
+1) Daysold : http://gg-l.xyz/lZULVHS
+
+2) Khan Academy : http://gg-l.xyz/ofZR1
+
+3) Flightradar24 : http://gg-l.xyz/XqAW9Rz
+
+4) Donothingfor2minutes : http://gg-l.xyz/nDS0mB
+
+5) weavesilk : http://gg-l.xyz/yk2BTr
+
+6) Noisli : http://gg-l.xyz/2VdZ
+
+7) Free Rice : http://gg-l.xyz/0ID31pB
+
+https://www.benefitme.co.in/
+
+OTD+LC-PRD-TOMCAT-CXF01-1A
+command[check_heapmemory]=sudo /usr/local/nagios/libexec/check_jvm -n /mnt/tomcatcxf/bin/tomcat-juli.jar -p heap -w 6442450944 -c 7516192768
+OTD+LC-PRD-TOMCAT-CXF02-1B
+command[check_heapmemory]=sudo /usr/local/nagios/libexec/check_jvm -n /mnt/tomcatcxf/bin/tomcat-juli.jar -p heap -w 6442450944 -c 7516192768
+LC-PRD-WSO2-ESB03-1A
+command[check_heapmemory]=sudo /usr/local/nagios/libexec/check_jvm -n org.wso2.carbon.bootstrap.Bootstrap -p heap -w 3221225472 -c 5368709120
+
+
+
+
+
+token 4214
+
+
+We have completed the maintenance activity,  machines are working fine as expected
+
+We have completed the Scheduled maintenance for AgVerdict_WebServer_02 (i-ee2f4de7) without downtime.
+
+We are performing Scheduled maintenance for AgVerdict_WebServer_02 (i-ee2f4de7 ) machine in Production Environment.
+
+rtb-47bdee22 | prod-private-rt-1b  -  route table 
+
+172.18.0.0/19       pcx-dcd916b5 - ss-to-production-peering - peering connectoins
+
+
+https://www.amazon.in/gp/join-and-earn?_encoding=UTF8&ref=mrp_44571_shr_cpbd_rf_d&refcust=SOGZDAP56HXMRZD6Z4WI64J274

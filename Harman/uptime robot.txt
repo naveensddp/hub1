@@ -1,0 +1,12 @@
+praveenkm@aditi.com
+Aditio1*
+
+Remove instance from load balancer - OTD-3767
+
+Accessing DEV identity server - OTD-3766
+
+PROBLEM Service Alert:SS-JUMBOX/Root Partition is WARNING  - OTD-3764
+
+PROBLEM Service Alert:OTD-PRD-WSO2-ESB02-1B/Root Partition is WARNING - OTD-3763
+
+Need sandbox enviroment - OTD-3768 
